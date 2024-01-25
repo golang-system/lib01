@@ -5,7 +5,7 @@ var (
 )
 
 func init() {
-	factor = 30
+	factor = 20
 }
 
 func AddWithFactor(x int, y int) int {
